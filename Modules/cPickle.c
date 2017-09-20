@@ -3038,9 +3038,14 @@ static struct PyMethodDef Pickler_methods[] =
 static Picklerobject *
 newPicklerobject(PyObject *file, int proto)
 {
+    /*
+     * 新建一个Pickler对象
+     * :param file: 输出缓冲的指针（FIle,StringIO,None,Other）
+     * :param proto: 协议编号
+    */
     Picklerobject *self;
 
-    if (proto < 0)
+    if (proto < 0) //填负值直接选最新协议
         proto = HIGHEST_PROTOCOL;
     if (proto > HIGHEST_PROTOCOL) {
         PyErr_Format(PyExc_ValueError, "pickle protocol %d asked for; "
