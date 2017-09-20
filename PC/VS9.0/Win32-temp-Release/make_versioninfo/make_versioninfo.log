@@ -1,0 +1,9 @@
+﻿  make_versioninfo.c
+  make_versioninfo.vcxproj -> E:\学习\Python-2.7.11\PC\VS9.0\\make_versioninfo.exe
+  make_versioninfo.vcxproj -> E:\学习\Python-2.7.11\PC\VS9.0\make_versioninfo.pdb (Full PDB)
+  'C:\Users\hzxingzhihao\AppData\Local\Temp' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: 命令“cd E:\学习\Python-2.7.11\PC\VS9.0\
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: make_versioninfo.exe > ..\..\PC\pythonnt_rc.h
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: :VCEnd”已退出，代码为 1。

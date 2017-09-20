@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{fc8ba673-2ddd-45b0-9ad1-247c2a2fd8d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{e342ee6e-8aee-44ae-9103-974935ad578d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Berkeley DB 4.7.25 Source Files">
+      <UniqueIdentifier>{4ccc9e09-6d62-4bec-b31d-eed68dc14240}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Modules\bsddb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Modules\_bsddb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

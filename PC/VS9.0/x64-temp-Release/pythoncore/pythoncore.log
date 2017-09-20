@@ -1,0 +1,438 @@
+﻿cl : 命令行 warning D9025: 正在重写“/GS”(用“/GS-”)
+  arraymodule.c
+  audioop.c
+..\..\Modules\audioop.c(28): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+..\..\Modules\audioop.c(38): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+..\..\Modules\audioop.c(389): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  binascii.c
+..\..\Modules\binascii.c(658): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+  multibytecodec.c
+  _codecs_cn.c
+  _codecs_hk.c
+  _codecs_iso2022.c
+  _codecs_jp.c
+  _codecs_kr.c
+  _codecs_tw.c
+  cmathmodule.c
+  cPickle.c
+..\..\Modules\cPickle.c(835): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Modules\cPickle.c(872): warning C4244: “=”: 从“Py_ssize_t”转换到“char”，可能丢失数据
+..\..\Modules\cPickle.c(1096): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(1153): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(1155): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(1270): warning C4244: “=”: 从“Py_ssize_t”转换到“char”，可能丢失数据
+..\..\Modules\cPickle.c(1553): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(1578): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(2099): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(2100): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(2199): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(2200): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(3897): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4386): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4407): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4432): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Modules\cPickle.c(4436): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4459): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4462): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4539): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4545): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\cPickle.c(4713): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  cStringIO.c
+  datetimemodule.c
+..\..\Modules\datetimemodule.c(4239): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  errnomodule.c
+  future_builtins.c
+  gcmodule.c
+  imageop.c
+  itertoolsmodule.c
+  main.c
+  正在生成代码...
+  正在编译...
+  mathmodule.c
+  md5.c
+  md5module.c
+  mmapmodule.c
+  operator.c
+  parsermodule.c
+  posixmodule.c
+..\..\Modules\posixmodule.c(582): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\Modules\posixmodule.c(4443): warning C4101: “opath”: 未引用的局部变量
+..\..\Modules\posixmodule.c(5404): warning C4996: 'GetVersion': 被声明为已否决
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(110): note: 参见“GetVersion”的声明
+..\..\Modules\posixmodule.c(6291): warning C4244: “函数”: 从“Py_intptr_t”转换到“long”，可能丢失数据
+  rotatingtree.c
+  sha256module.c
+..\..\Modules\sha256module.c(488): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\sha256module.c(636): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\sha256module.c(671): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  sha512module.c
+..\..\Modules\sha512module.c(554): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\sha512module.c(702): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\sha512module.c(737): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  shamodule.c
+  signalmodule.c
+  stropmodule.c
+  symtablemodule.c
+  threadmodule.c
+  timemodule.c
+..\..\Modules\timemodule.c(713): error C2065: “timezone”: 未声明的标识符
+..\..\Modules\timemodule.c(721): error C2065: “timezone”: 未声明的标识符
+..\..\Modules\timemodule.c(724): error C2065: “daylight”: 未声明的标识符
+..\..\Modules\timemodule.c(726): error C2065: “tzname”: 未声明的标识符
+..\..\Modules\timemodule.c(726): error C2109: 下标要求数组或指针类型
+  xxsubtype.c
+  zipimport.c
+  zlibmodule.c
+..\..\Modules\zlibmodule.c(232): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(284): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(431): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(445): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(553): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(580): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+..\..\Modules\zlibmodule.c(833): warning C4244: “=”: 从“Py_ssize_t”转换到“uInt”，可能丢失数据
+  adler32.c
+  正在生成代码...
+  正在编译...
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+..\..\Modules\zlib\gzlib.c(193): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1008): note: 参见“wcstombs”的声明
+..\..\Modules\zlib\gzlib.c(208): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1008): note: 参见“wcstombs”的声明
+..\..\Modules\zlib\gzlib.c(214): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+..\..\Modules\zlib\gzlib.c(243): warning C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h(257): note: 参见“_wopen”的声明
+..\..\Modules\zlib\gzlib.c(245): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(514): note: 参见“open”的声明
+..\..\Modules\zlib\gzlib.c(294): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+..\..\Modules\zlib\gzlib.c(607): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+  gzread.c
+..\..\Modules\zlib\gzread.c(30): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(521): note: 参见“read”的声明
+..\..\Modules\zlib\gzread.c(36): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: 参见“strerror”的声明
+..\..\Modules\zlib\gzread.c(591): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 参见“close”的声明
+  gzwrite.c
+..\..\Modules\zlib\gzwrite.c(84): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(556): note: 参见“write”的声明
+..\..\Modules\zlib\gzwrite.c(86): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: 参见“strerror”的声明
+..\..\Modules\zlib\gzwrite.c(101): warning C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(556): note: 参见“write”的声明
+..\..\Modules\zlib\gzwrite.c(103): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(178): note: 参见“strerror”的声明
+..\..\Modules\zlib\gzwrite.c(573): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(457): note: 参见“close”的声明
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  _bisectmodule.c
+  _codecsmodule.c
+  _collectionsmodule.c
+..\..\Modules\_collectionsmodule.c(1311): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+  _csv.c
+..\..\Modules\_csv.c(809): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\_csv.c(1128): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\_csv.c(1160): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  _functoolsmodule.c
+  _heapqmodule.c
+  正在生成代码...
+  正在编译...
+  _hotshot.c
+  bufferedio.c
+  bytesio.c
+  fileio.c
+  iobase.c
+  stringio.c
+  textio.c
+  _iomodule.c
+  _json.c
+  _localemodule.c
+..\..\Modules\_localemodule.c(316): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Modules\_localemodule.c(325): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  _lsprof.c
+  _math.c
+  _randommodule.c
+  _sre.c
+e:\学习\python-2.7.11\modules\_sre.c(1956): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(1959): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2000): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2003): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2154): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2157): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2291): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2294): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2443): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(2446): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(3867): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(3870): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(3907): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\modules\_sre.c(3910): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  _struct.c
+  _weakref.c
+  abstract.c
+  boolobject.c
+  bufferobject.c
+  bytearrayobject.c
+..\..\Objects\bytearrayobject.c(1299): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\bytearrayobject.c(1308): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  bytes_methods.c
+  capsule.c
+  cellobject.c
+  classobject.c
+  cobject.c
+  codeobject.c
+..\..\Objects\codeobject.c(520): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\codeobject.c(542): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  complexobject.c
+  descrobject.c
+  dictobject.c
+  enumobject.c
+  exceptions.c
+  fileobject.c
+  floatobject.c
+..\..\Objects\floatobject.c(1187): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  frameobject.c
+..\..\Objects\frameobject.c(509): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\frameobject.c(542): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\frameobject.c(900): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\frameobject.c(901): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\frameobject.c(947): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\frameobject.c(948): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  funcobject.c
+..\..\Objects\funcobject.c(529): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Objects\funcobject.c(530): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  genobject.c
+  intobject.c
+  iterobject.c
+  listobject.c
+  longobject.c
+  正在生成代码...
+  正在编译...
+  memoryobject.c
+  methodobject.c
+  moduleobject.c
+  object.c
+  obmalloc.c
+..\..\Objects\obmalloc.c(955): warning C4244: “=”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  rangeobject.c
+  setobject.c
+..\..\Objects\setobject.c(758): warning C4244: “=”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Objects\setobject.c(787): warning C4244: “*=”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Objects\setobject.c(834): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+  sliceobject.c
+  stringobject.c
+..\..\Objects\stringobject.c(2881): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  structseq.c
+  tupleobject.c
+  typeobject.c
+  unicodectype.c
+  unicodeobject.c
+..\..\Objects\unicodeobject.c(4223): warning C4244: “=”: 从“long”转换到“Py_UNICODE”，可能丢失数据
+  weakrefobject.c
+  acceler.c
+  bitset.c
+  firstsets.c
+  grammar.c
+..\..\Parser\grammar.c(70): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+..\..\Parser\grammar.c(112): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  grammar1.c
+  正在生成代码...
+  正在编译...
+  listnode.c
+  metagrammar.c
+  myreadline.c
+  node.c
+  parser.c
+  parsetok.c
+..\..\Parser\parsetok.c(193): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+..\..\Parser\parsetok.c(231): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  tokenizer.c
+..\..\Parser\tokenizer.c(658): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+..\..\Parser\tokenizer.c(627): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+..\..\Parser\tokenizer.c(1737): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Parser\tokenizer.c(1722): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  asdl.c
+  ast.c
+  bltinmodule.c
+  ceval.c
+..\..\Python\ceval.c(4444): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\ceval.c(4632): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\ceval.c(4998): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  codecs.c
+  compile.c
+..\..\Python\compile.c(335): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Python\compile.c(395): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Python\compile.c(492): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(546): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(996): warning C4244: “函数”: 从“Py_ssize_t”转换到“long”，可能丢失数据
+..\..\Python\compile.c(1011): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(1303): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3610): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3636): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3662): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3830): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3834): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3874): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\compile.c(3881): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  dtoa.c
+  dynload_win.c
+  errors.c
+  formatter_string.c
+e:\学习\python-2.7.11\python\../Objects/stringlib/formatter.h(1001): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\python\../Objects/stringlib/formatter.h(1181): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+e:\学习\python-2.7.11\python\../Objects/stringlib/formatter.h(1185): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  formatter_unicode.c
+  frozen.c
+  future.c
+  正在生成代码...
+  正在编译...
+  getargs.c
+..\..\Python\getargs.c(349): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(461): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(869): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(878): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(886): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(955): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(964): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(972): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1000): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1138): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1186): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1311): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1350): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1411): warning C4244: “return”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1571): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\getargs.c(1572): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  getcompiler.c
+  getcopyright.c
+  getopt.c
+  getplatform.c
+  getversion.c
+  graminit.c
+  import.c
+  importdl.c
+  marshal.c
+..\..\Python\marshal.c(1039): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  modsupport.c
+  mysnprintf.c
+  mystrtoul.c
+  peephole.c
+..\..\Python\peephole.c(73): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(185): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(238): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(320): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(373): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(388): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(410): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(436): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(521): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(531): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(560): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(574): warning C4244: “-=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(601): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\peephole.c(630): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+..\..\Python\peephole.c(640): warning C4244: “=”: 从“Py_ssize_t”转换到“unsigned char”，可能丢失数据
+  pyarena.c
+  pyctype.c
+  pyfpe.c
+  pymath.c
+  pystate.c
+  pystrcmp.c
+  正在生成代码...
+  正在编译...
+  pystrtod.c
+..\..\Python\pystrtod.c(953): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\pystrtod.c(1074): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  Python-ast.c
+..\..\Python\Python-ast.c(3348): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3384): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3443): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3552): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3577): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3629): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3654): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3679): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3738): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3775): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3885): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3960): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(3985): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4036): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4061): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4111): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4136): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4197): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4282): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4307): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4332): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4370): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4395): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4466): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4515): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4610): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4758): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4965): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(4990): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5026): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5075): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5124): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5186): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5236): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5308): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5333): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5386): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5411): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5674): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5723): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(5910): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(6287): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(6387): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(6435): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\..\Python\Python-ast.c(6482): warning C4244: “函数”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+  pythonrun.c
+..\..\Python\pythonrun.c(933): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  random.c
+..\..\Python\random.c(80): warning C4244: “函数”: 从“Py_ssize_t”转换到“DWORD”，可能丢失数据
+  structmember.c
+  symtable.c
+  sysmodule.c
+..\..\Python\sysmodule.c(601): warning C4996: 'GetVersionExA': 被声明为已否决
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(433): note: 参见“GetVersionExA”的声明
+  thread.c
+  traceback.c
+  _warnings.c
+  config.c
+  dl_nt.c
+  getpathp.c
+  import_nt.c
+  msvcrtmodule.c
+..\msvcrtmodule.c(400): warning C4101: “st”: 未引用的局部变量
+  _subprocess.c
+..\_subprocess.c(341): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\_subprocess.c(364): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\_subprocess.c(365): warning C4244: “=”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+..\_subprocess.c(367): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+..\_subprocess.c(369): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+..\_subprocess.c(576): warning C4996: 'GetVersion': 被声明为已否决
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h(110): note: 参见“GetVersion”的声明
+  _winreg.c
+..\_winreg.c(794): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+..\_winreg.c(845): warning C4267: “+=”: 从“size_t”转换到“DWORD”，可能丢失数据
+..\_winreg.c(900): warning C4244: “=”: 从“Py_ssize_t”转换到“DWORD”，可能丢失数据
+..\_winreg.c(1070): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+..\_winreg.c(1580): warning C4244: “=”: 从“Py_ssize_t”转换到“DWORD”，可能丢失数据
+  正在生成代码...
